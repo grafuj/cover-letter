@@ -7,8 +7,8 @@ function App() {
 
   return (
     <>
-      <h1>Graham Fujisawa</h1>
       <Nav />
+      <h1>Graham Fujisawa</h1>
     </>
   )
 }
