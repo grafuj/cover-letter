@@ -5,12 +5,12 @@ export default function Nav() {
   return (
     <>
       <div className='nav-body'>
-        <h3>Graham Fujisawa</h3>
-        <h3>About Me</h3>
-        <h3>Projects</h3>
-        <h3>Why Me</h3>
-        <h3>Skills</h3>
-        <h3>Interests</h3>
+        <a>Graham Fujisawa</a>
+        <a>About Me</a>
+        <a>Projects</a>
+        <a>Why Me</a>
+        <a>Skills</a>
+        <a>Interests</a>
       </div>
     </>
   )
