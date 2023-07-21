@@ -1,14 +1,19 @@
-nav-body {
-  /* margin: 0; */
+.nav-body {
   position: sticky;
   right: 0;
   padding-right: 20px;
   top: 0;
   z-index: 100;
-  background-color: #fff;
+  background-color: #202020;
   left: 0;
   display: flex;
   justify-content: space-between;
   height: 58px;
-  align-items: center;
+  /* align-items: center; */
+}
+
+.nav-text {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
 }
