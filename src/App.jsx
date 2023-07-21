@@ -9,6 +9,8 @@ function App() {
     <>
       <Nav />
       <h1>Graham Fujisawa</h1>
+      <h1>Hello!</h1>
+      
     </>
   )
 }
